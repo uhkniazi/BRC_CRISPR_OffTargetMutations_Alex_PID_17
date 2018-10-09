@@ -1,0 +1,2 @@
+input/trim_Uni3_S1_L001_R1_001.fastq.gz input/trim_Uni3_S1_L001_R2_001.fastq.gz output/Aligned/Uni3_S1_L001_R1_001.fastq.gz.sam
+input/trim_Uni4_S2_L001_R1_001.fastq.gz input/trim_Uni4_S2_L001_R2_001.fastq.gz output/Aligned/Uni4_S2_L001_R1_001.fastq.gz.sam
