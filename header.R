@@ -5,7 +5,7 @@
 
 
 ## variables
-g_pid = 7
+g_pid = 17
 g_did = 35
 gcswd = getwd()
 gcRemoteDir = "/run/user/1000/gvfs/sftp:host=10.202.64.29,user=k1625253/users/k1625253/brc_scratch/Data/ProjectsData/BRC_CRISPR_OffTargetMutations_Alex_PID_17/"
